@@ -461,6 +461,9 @@ export default function App() {
             />
           </div>
         </main>
+         <footer className="w-full mt-12 py-6 text-center text-zinc-500 text-xs font-medium">
+          Designed and Developed by Devendra
+        </footer>
       </div>
     </div>
   );
