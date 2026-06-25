@@ -1,0 +1,6 @@
+{
+  "name": "VocalPolish",
+  "description": "Professional audio enhancement studio. Reduce background noise, boost clarity, and get that YouTuber radio-voice with one click.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
